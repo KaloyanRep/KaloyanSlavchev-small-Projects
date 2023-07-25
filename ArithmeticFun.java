@@ -6,7 +6,7 @@ public class ArithmeticFun {
 
 
         //e.g.. BINARY OPERATORS
-                int result = a + b; //binary operator bcs it takes 2 operands
+                int result = a + b; // binary operator bcs it takes 2 operands
                                     // = assignment operator
 
         int difference = a- b;
