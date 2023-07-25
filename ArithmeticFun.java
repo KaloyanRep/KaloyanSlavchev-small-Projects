@@ -2,14 +2,14 @@ public class ArithmeticFun {
     public static void main(String[]args){
 
         int a = 10;
-        int b =15;
+        int b = 15;
 
 
         //e.g.. BINARY OPERATORS
                 int result = a + b; // binary operator bcs it takes 2 operands
                                     // = assignment operator
 
-        int difference = a- b;
+        int difference = a - b;
         int product=a*b;
         int quotient=b/a;
         int remainder = b%a;
