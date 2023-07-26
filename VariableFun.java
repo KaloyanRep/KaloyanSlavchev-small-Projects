@@ -3,7 +3,7 @@ public class VariableFun {
 
         int myAge ; //declaration
 
-        myAge= 19; //initialization
+        myAge = 19; //initialization
 
 
 
