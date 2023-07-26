@@ -3,7 +3,7 @@ public class VariableFun {
 
         int myAge ; //declaration
 
-        myAge= 19; //initialization
+        myAge = 19; //initialization
 
 
 
@@ -12,7 +12,7 @@ public class VariableFun {
 
         String name = "Billy";
 
-        String myHomeTown="Veliko Tarnovo";
+        String myHomeTown = "Veliko Tarnovo";
 
 
         System.out.println(name + " is " + myAge + '\n'); //+ concatenation operator.On the left is String operand,on the right integer operand.
